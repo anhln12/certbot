@@ -96,3 +96,8 @@ Chứng chỉ Let’s Encrypt chỉ có hiệu lực trong 90 ngày, do đó b�
 00 6 * * * /usr/bin/certbot renew --quiet
 ```
 Chú thích: Cronjob này có nghĩa là cứ đúng 6:00 AM nó sẽ check chứng chỉ, nếu chứng chỉ hết hạn sẽ tự động gia hạn. Ngược lại, nếu còn hạn sẽ không thực hiện gia hạn.
+
+Bước 3: Kiểm tra chứng chỉ sau cài đặt
+Các bạn có thể truy cập trang SSL Checker theo đường dẫn: https://www.sslshopper.com/ssl-checker.html
+
+<img src=https://imgur.com/fFKeu20>
