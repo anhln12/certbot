@@ -100,4 +100,4 @@ Chú thích: Cronjob này có nghĩa là cứ đúng 6:00 AM nó sẽ check ch�
 Bước 3: Kiểm tra chứng chỉ sau cài đặt
 Các bạn có thể truy cập trang SSL Checker theo đường dẫn: https://www.sslshopper.com/ssl-checker.html
 
-<img src=https://imgur.com/fFKeu20>
+<img src=https://i.imgur.com/fFKeu20.png>
